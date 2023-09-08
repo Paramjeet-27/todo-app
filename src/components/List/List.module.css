@@ -1,0 +1,15 @@
+.ulList{
+    display: inline-block;
+}
+
+.actBtn{
+    margin: 10px 15px;
+}
+
+.listItems{
+    padding: 5px;
+}
+
+.isDoneCss{
+    background-color: lightgreen;
+}
